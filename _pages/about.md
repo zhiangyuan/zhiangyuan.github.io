@@ -21,6 +21,7 @@ Weocome to my Homepage! I am currently a PhD student in Statistics at [Departmen
 
 <!-- My research interest  -->
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - Ph.D. in Statistics, [CUHK](https//www.cuhk.edu.hk) (expected 2029)
 - B.Sc. in Statistics (First Class Honours), [CUHK](https//www.cuhk.edu.hk) (2025)
@@ -45,9 +46,11 @@ Weocome to my Homepage! I am currently a PhD student in Statistics at [Departmen
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='teaching'></span>
 # 📑 Teaching
 Coming soon!
 
+<span class='anchor' id='honours-and-awards'></span>
 # 🎖 Honors and Awards
 - CUHK Vice-Chancellor's PhD Scholarship, <font color= grey>CUHK</font>
 - HKSAR Government Scholarship, <font color= grey>Education Bureau, Hong Kong Government</font>
@@ -55,11 +58,12 @@ Coming soon!
 - To Cho Fong Statistics Prize, <font color= grey>Department of Statistics and Data Science, CUHK</font>
 - College Head’s List, <font color= grey>United College, CUHK</font>
 
+<span class='anchor' id='contact'></span>
 # ✉️ Contact
 - **Email**: [zhiangyuan@link.cuhk.edu.hk](mailto:zhiangyuan@link.cuhk.edu.hk)
 - **Address**: Room 115, Lady Shaw Building (LSB), CUHK, Sha Tin, Hong Kong
 - **Phone Number**: 3943 7939
-- 
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
