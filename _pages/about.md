@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 👋 About Me
 Weocome to my Homepage! I am currently a PhD student in Statistics at [Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](https//www.cuhk.edu.hk) under the supervision of [Prof. Yingying WEI](https://www.sta.cuhk.edu.hk/peoples/ywei/). I received my B.Sc in Statistics from [CUHK](https//www.cuhk.edu.hk).
 
 <!-- My research interest  -->
@@ -51,7 +51,7 @@ Weocome to my Homepage! I am currently a PhD student in Statistics at [Departmen
 Coming soon!
 
 <span class='anchor' id='honours-and-awards'></span>
-# 🎖 Honors and Awards
+# 🎖 Honours and Awards
 - CUHK Vice-Chancellor's PhD Scholarship, <font color= grey>CUHK</font>
 - HKSAR Government Scholarship, <font color= grey>Education Bureau, Hong Kong Government</font>
 - Dean’s List, <font color= grey>Faculty of Science, CUHK</font>
@@ -61,7 +61,7 @@ Coming soon!
 <span class='anchor' id='contact'></span>
 # ✉️ Contact
 - **Email**: [zhiangyuan@link.cuhk.edu.hk](mailto:zhiangyuan@link.cuhk.edu.hk)
-- **Address**: Room 115, Lady Shaw Building (LSB), CUHK, Sha Tin, Hong Kong
+- **Address**: Room 130, Lady Shaw Building (LSB), CUHK, Sha Tin, Hong Kong
 - **Phone Number**: 3943 7939
 
 <!-- # 💬 Invited Talks
