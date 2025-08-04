@@ -21,8 +21,8 @@ Weocome to my Homepage! I am currently a PhD student in Statistics at [Departmen
 
 <!-- My research interest  -->
 
-<span class='anchor' id='educations'></span>
-# 📖 Educations
+<span class='anchor' id='academic-background'></span>
+# 📖 Academic Background
 - Ph.D. in Statistics, [CUHK](https//www.cuhk.edu.hk) (expected 2029)
 - B.Sc. in Statistics (First Class Honours), [CUHK](https//www.cuhk.edu.hk) (2025)
 
@@ -64,7 +64,4 @@ Coming soon!
 - **Address**: Room 130, Lady Shaw Building (LSB), CUHK, Sha Tin, Hong Kong
 - **Phone Number**: 3943 7939
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
